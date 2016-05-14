@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: http://photo-goncharova.ru/sitemap.xml
